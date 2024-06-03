@@ -115,3 +115,4 @@ JOIN Enrollments e ON s.student_id = e.student_id
 GROUP BY s.first_name,s.last_name
 ORDER BY course_count;
 
+

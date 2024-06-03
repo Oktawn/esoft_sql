@@ -20,3 +20,4 @@ INSERT INTO Enrollments (student_id, course_id, grade, enrollment_date)
     (2, 3, 2, '2024-09-01'),
     (3, 4, 3, '2024-09-01'),
     (4, 5, 2, '2024-09-01');
+    

@@ -7,3 +7,4 @@ WHERE course_id NOT IN (
         SELECT course_id
         FROM Enrollments
     );
+    

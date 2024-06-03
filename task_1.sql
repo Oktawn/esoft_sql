@@ -24,3 +24,4 @@ CREATE TABLE Enrollments(
     grade int,
     enrollment_date date
 );
+
